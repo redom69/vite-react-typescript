@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "description": "Microsoft Office 365 Business",
+    "explanation": "Microsoft Office 365 Business es una suite de productividad que incluye aplicaciones como Word, Excel, PowerPoint y Outlook, diseñadas para ayudar a los usuarios a realizar tareas diarias de manera eficiente.",
+    "typology": "productividad"
+  },
+  {
+    "id": "2",
+    "description": "Adobe Creative Cloud",
+    "explanation": "Adobe Creative Cloud es una suite de aplicaciones de diseño gráfico, video y multimedia, incluyendo Photoshop, Illustrator, Premiere Pro, etc.",
+    "typology": "productividad"
+  },
+  {
+    "id": "3",
+    "description": "AutoCAD LT",
+    "explanation": "AutoCAD LT es un software de diseño asistido por computadora (CAD) para crear y editar dibujos y modelos 2D y 3D.",
+    "typology": "diseño"
+  },
+  {
+    "id": "4",
+    "description": "Zoom Meetings Pro",
+    "explanation": "Zoom Meetings Pro es una herramienta de videoconferencia y reuniones en línea, enfocada en la comunicación efectiva y colaboración en equipo.",
+    "typology": "comunicación"
+  },
+  {
+    "id": "5",
+    "description": "Slack Standard Plan",
+    "explanation": "Slack es una plataforma de comunicación en tiempo real para equipos y empresas, permitiendo la creación de canales de chat, llamadas y compartir archivos.",
+    "typology": "comunicación"
+  },
+  {
+    "id": "6",
+    "description": "GitHub Enterprise",
+    "explanation": "GitHub Enterprise es una plataforma de desarrollo de software que ofrece herramientas de colaboración y gestión de proyectos para desarrolladores y empresas.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "7",
+    "description": "Salesforce Sales Cloud",
+    "explanation": "Salesforce Sales Cloud es una plataforma de desarrollo de aplicaciones de ventas y marketing que permite a las empresas gestionar sus relaciones con clientes y prospectos.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "8",
+    "description": "QuickBooks Online Plus",
+    "explanation": "QuickBooks Online Plus es una aplicación de contabilidad y gestión financiera en la nube, diseñada para pequeñas y medianas empresas.",
+    "typology": "finanzas"
+  },
+  {
+    "id": "9",
+    "description": "Dropbox Business Advanced",
+    "explanation": "Dropbox Business Advanced es una herramienta de almacenamiento en la nube y gestión de archivos que ayuda a los usuarios a colaborar y compartir archivos de manera segura y eficiente.",
+    "typology": "productividad"
+  },
+  {
+    "id": "10",
+    "description": "Atlassian Confluence",
+    "explanation": "Atlassian Confluence es una herramienta de colaboración y gestión de contenido para equipos de desarrollo y empresas, enfocada en la gestión de proyectos y documentación.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "11",
+    "description": "Atlassian Jira Software",
+    "explanation": "Atlassian Jira Software es una herramienta de gestión de proyectos y desarrollo de software que ayuda a los equipos a planificar, desarrollar y entregar proyectos de manera efectiva.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "12",
+    "description": "Google Workspace Business Standard",
+    "explanation": "Google Workspace Business Standard es una suite de productividad que incluye herramientas como Gmail, Google Drive, Google Docs, Google Sheets y Google Slides, diseñadas para mejorar la colaboración y la eficiencia en el trabajo.",
+    "typology": "productividad"
+  },
+  {
+    "id": "13",
+    "description": "AWS Lambda",
+    "explanation": "AWS Lambda es una plataforma de computación en la nube que permite ejecutar código sin la necesidad de administrar servidores o infraestructura, ideal para desarrollar aplicaciones web y móviles.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "14",
+    "description": "Microsoft Azure DevOps",
+    "explanation": "Microsoft Azure DevOps es una plataforma de desarrollo de software que proporciona herramientas para gestión de versiones, automatización de procesos y colaboración en equipo.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "15",
+    "description": "SAP S/4HANA Cloud",
+    "explanation": "SAP S/4HANA Cloud es una plataforma de gestión empresarial en la nube que ofrece soluciones de gestión de finanzas, recursos humanos, abastecimiento y más.",
+    "typology": "finanzas"
+  },
+  {
+    "id": "16",
+    "description": "Oracle Database Cloud Service",
+    "explanation": "Oracle Database Cloud Service es un servicio de base de datos en la nube que permite a los desarrolladores crear, implementar y administrar bases de datos para aplicaciones y sistemas.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "17",
+    "description": "IBM SPSS Statistics",
+    "explanation": "IBM SPSS Statistics es un software de análisis estadístico y ciencia de datos utilizado por desarrolladores y analistas para recopilar, analizar y visualizar datos.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "18",
+    "description": "Tableau Desktop",
+    "explanation": "Tableau Desktop es una herramienta de análisis de datos y visualización que permite a los usuarios crear informes y dashboards para analizar y presentar datos.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "19",
+    "description": "MATLAB",
+    "explanation": "MATLAB es un entorno de desarrollo integrado (IDE) y un lenguaje de programación utilizado para análisis numérico, visualización de datos y desarrollo de aplicaciones",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "20",
+    "description": "Slack Enterprise Grid",
+    "explanation": "Slack Enterprise Grid es una plataforma de comunicación y colaboración en la nube que permite a las empresas gestionar múltiples equipos y departamentos de manera segura y escalable.",
+    "typology": "comunicación"
+  },
+  {
+    "id": "21",
+    "description": "Trello Business Class",
+    "explanation": "Trello es una herramienta de gestión de proyectos y tareas que permite a los usuarios organizar y priorizar sus tareas de manera efectiva.",
+    "typology": "productividad"
+  },
+  {
+    "id": "22",
+    "description": "Visual Studio Enterprise",
+    "explanation": "Visual Studio Enterprise es una herramienta de desarrollo integrada (IDE) para programar y depurar aplicaciones, lo que la clasifica en la categoría de desarrollo.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "23",
+    "description": "GitLab Ultimate",
+    "explanation": "GitLab Ultimate es una plataforma de desarrollo de software que ofrece herramientas de gestión de proyectos, versiones y colaboración para desarrolladores y empresas.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "24",
+    "description": "Zendesk Support Suite",
+    "explanation": "Zendesk Support Suite es una plataforma de atención al cliente y soporte técnico que permite a las empresas gestionar y resolver problemas de los clientes de manera efectiva.",
+    "typology": "comunicación"
+  },
+  {
+    "id": "25",
+    "description": "HubSpot Marketing Hub",
+    "explanation": "HubSpot Marketing Hub es una plataforma de marketing automatizado que ofrece herramientas para automatizar campañas publicitarias, gestión de contenido y análisis de datos.",
+    "typology": "marketing"
+  },
+  {
+    "id": "26",
+    "description": "Asana Premium",
+    "explanation": "Asana Premium es una herramienta de gestión de tareas y proyectos que ayuda a los equipos a organizar y priorizar su trabajo, lo que la clasifica como una herramienta de productividad.",
+    "typology": "productividad"
+  },
+  {
+    "id": "27",
+    "description": "ServiceNow IT Service Management",
+    "explanation": "ServiceNow IT Service Management es una plataforma de gestión de servicios de IT que ayuda a las empresas a automatizar y gestionar los servicios de IT, lo que la clasifica en la categoría de desarrollo.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "28",
+    "description": "DocuSign Business Pro",
+    "explanation": "DocuSign Business Pro es una plataforma de firma electrónica y gestión de documentos, que se utiliza comúnmente en entornos de desarrollo y colaboración.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "29",
+    "description": "Shopify Plus",
+    "explanation": "Shopify Plus es una plataforma de comercio electrónico que permite a los desarrolladores crear y personalizar tiendas en línea, por lo que se clasifica en la categoría de desarrollo.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "30",
+    "description": "Mailchimp Standard",
+    "explanation": "Mailchimp es una plataforma de marketing automático y email marketing que ayuda a los usuarios a crear y enviar correos electrónicos personalizados y automatizar campañas de marketing.",
+    "typology": "marketing"
+  },
+  {
+    "id": "31",
+    "description": "Monday.com Pro",
+    "explanation": "Monday.com Pro es una plataforma de gestión de proyectos y automatización de procesos que se enfoca en el desarrollo de software y la gestión de proyectos",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "32",
+    "description": "Notion Team Plan",
+    "explanation": "Notion es una herramienta de productividad que permite crear bases de datos, notas y páginas para organizar y estructurar la información de manera efectiva.",
+    "typology": "productividad"
+  },
+  {
+    "id": "33",
+    "description": "Freshdesk Omnichannel",
+    "explanation": "Freshdesk Omnichannel es una plataforma de atención al cliente que permite a las empresas gestionar y responder a solicitudes de clientes a través de múltiples canales, como correo electrónico, chat, teléfono y redes sociales.",
+    "typology": "comunicación"
+  },
+  {
+    "id": "34",
+    "description": "Microsoft Dynamics 365 Sales",
+    "explanation": "Microsoft Dynamics 365 Sales es una plataforma de gestión de ventas y marketing que se utiliza para automatizar y mejorar la gestión de ventas, marketing y relaciones con clientes.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "35",
+    "description": "GitKraken Pro",
+    "explanation": "GitKraken Pro es una herramienta de desarrollo de software que ofrece una interfaz gráfica para el manejo de versiones y el control de cambios en proyectos de software.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "36",
+    "description": "Bitbucket Premium",
+    "explanation": "Bitbucket Premium es una plataforma de gestión de código y colaboración para desarrolladores, ofreciendo características como control de versiones, revisiones y colaboración en equipo.",
+    "typology": "desarrollo"
+  },
+  {
+    "id": "37",
+    "description": "Cisco Webex Meetings",
+    "explanation": "Cisco Webex Meetings es una plataforma de videoconferencia y reuniones en línea que permite a los usuarios conectarse y colaborar en tiempo real.",
+    "typology": "comunicación"
+  },
+  {
+    "id": "38",
+    "description": "BlueJeans Meetings",
+    "explanation": "BlueJeans Meetings es una plataforma de videoconferencia y reuniones en línea que permite a los usuarios conectarse y colaborar en tiempo real.",
+    "typology": "comunicación"
+  },
+  {
+    "id": "39",
+    "description": "Zoom Video Webinars",
+    "explanation": "Zoom Video Webinars es una plataforma de videoconferencia y webinars que permite a los usuarios conectarse y compartir contenido en vivo.",
+    "typology": "comunicación"
+  },
+  {
+    "id": "40",
+    "description": "Microsoft Power BI Pro",
+    "explanation": "Microsoft Power BI Pro es una herramienta de análisis de datos y visualización que se utiliza para crear informes y dashboards, por lo que se clasifica en la categoría de Desarrollo.",
+    "typology": "desarrollo"
+  }
+]
